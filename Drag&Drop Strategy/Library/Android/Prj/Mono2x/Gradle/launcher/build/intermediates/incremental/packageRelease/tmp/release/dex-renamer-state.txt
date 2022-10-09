@@ -1,0 +1,4 @@
+#Sun Jan 30 22:17:28 EET 2022
+base.0=C\:\\Users\\adinc\\Desktop\\3D Modelling Projects\\Blender\\3D Campus\\sanalKampus6\\Drag&Drop Strategy\\Library\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
